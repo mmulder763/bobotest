@@ -2,8 +2,8 @@
     "theme_color": "#cde9f2",
     "background_color": "#cde9f2",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/bobotest",
+    "start_url": "/bobotest",
     "name": "Bobo",
     "short_name": "Bobo",
     "icons": [

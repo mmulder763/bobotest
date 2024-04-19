@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Sofia Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sofia Pro Regular'), url('Sofia Pro Regular Az.woff') format('woff');
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    height: 65px;
+    width: 100%;
+    background-color: #cde9f2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    width: auto;
+    height: auto;
+    padding: 12px;
+    max-width: 160px;
+}
+
+nav p {
+    padding: 12px;
+    padding-right: 24px;
+    font-family:'Sofia Pro Regular';
+    font-weight:normal;
+}
